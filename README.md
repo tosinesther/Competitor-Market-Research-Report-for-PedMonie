@@ -5,5 +5,7 @@ PedMonie is developing a fintech solution that consolidates mobile money, bank t
 We conducted secondary research to gather information from online sources, industry reports, competitor websites, and user reviews. The analysis focused on:
 
 Competitor identification
+
 Product and feature comparison
+
 Market trends and customer pain points
