@@ -12,5 +12,7 @@ Market trends and customer pain points
 # Tools Used
 Google Search: To find fintech companies offering similar solutions
 Crunchbase & LinkdIn: To analyze company backgrounds
+
 Company Websites & Product Documentation: To extract key product features
+
 Online Reviews & Forum: To gather user feedbacks on competitor products
